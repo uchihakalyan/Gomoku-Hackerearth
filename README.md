@@ -15,3 +15,8 @@ We will play it on an
 X
 10
 10X10 grid simulated as rhombus.
+
+
+For more details,
+
+https://www.hackerearth.com/problem/multiplayer/gomoku/
